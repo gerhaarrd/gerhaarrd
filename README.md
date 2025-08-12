@@ -1,32 +1,32 @@
-<!-- Banner animado -->
+<!-- Banner personalizado -->
 <p align="center">
-  <img src="https://i.ibb.co/Z6gH5hV/cyber-dev.gif" alt="banner" width="100%" />
+  <img src="https://i.ibb.co/Ths8rcM/dev-banner.gif" alt="banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Olá, eu sou o <span style="color:#E4405F;">João Gerhard</span></h1>
-<h3 align="center">💻 Desenvolvedor | 🛡️ Segurança | 🚀 Criador de Projetos Interativos</h3>
+<h1 align="center">👋 Olá, eu sou <strong>João Gerhard</strong></h1>
+<h3 align="center">💻 Desenvolvedor Full Stack | 🛡️ Segurança da Informação</h3>
 
 ---
 
 ## 🚀 Sobre mim
-- 🔭 Atualmente trabalhando em: **Sistema de Controle de Acesso**
-- 🌱 Estudando: **FastAPI, WebSockets, SQLAlchemy, LangChain e Segurança de Aplicações**
-- 💡 Interesses: **Segurança, automações, bots e experiências web criativas**
-- ⚡ Estilo: unir **tecnologia + design** para entregar algo memorável
+- 🔭 Trabalhando em: **Sistema de Controle de Acesso com Níveis de Permissão**
+- 🌱 Aprendendo: **FastAPI, WebSockets, SQLAlchemy, LangChain**
+- 💡 Interesses: Segurança, automações, bots e experiências web imersivas
+- ⚡ Filosofia: “Código é arte. Segurança é prioridade.”
 
 ---
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gerhaarrd&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerhaarrd&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gerhaarrd&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerhaarrd&layout=compact&theme=radical&hide_border=true" height="165" />
 </p>
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,html,css,js,mysql,git,linux,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,html,css,js,mysql,git,linux,sqlite,php" />
 </p>
 
 ---
@@ -34,16 +34,16 @@
 ## 🌐 Onde me encontrar
 <p align="center">
   <a href="https://instagram.com/gerhaarrd">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://discord.com/users/gerhaarrd">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26Ff6p1ZzXwP8n2sA/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 </p>
-<p align="center"><i>"Código é a minha arte, segurança é a minha armadura"</i></p>
+<p align="center"><i>"Transformando ideias em soluções seguras e criativas"</i></p>
