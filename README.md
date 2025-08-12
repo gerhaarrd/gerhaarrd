@@ -5,7 +5,7 @@
 
 ## 🚀 Sobre mim
 - 🔭 Atualmente trabalhando em: **[Sistema de Controle de Acesso]**
-- 🌱 Estudando: **FastAPI, WebSockets, e Segurança de Aplicações**
+- 🌱 Estudando: **FastAPI, WebSockets,SQLAlchemy, LangChain, e Segurança de Aplicações**
 - 💡 Interesses: Segurança, automações, bots, e experiências web interativas.
 ---
 
@@ -21,7 +21,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,html,css,js,mysql,git,linux" />
 </p>
-
----
-
-⭐ **Se você curtiu algum repositório meu, não esquece de deixar uma estrela!**
