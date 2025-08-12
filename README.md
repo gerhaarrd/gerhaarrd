@@ -1,5 +1,5 @@
-<h1 align="center">👋 Olá, eu sou o Mister Pica das Galáxias</h1>
-<h3 align="center">💻 Desenvolvedor | 🛡️ Segurança | 🎮 Criador de Projetos Criativos</h3>
+<h1 align="center">👋 Olá, eu sou o João Gerhard</h1>
+<h3 align="center">💻 Desenvolvedor | 🛡️ Segurança </h3>
 
 ---
 
