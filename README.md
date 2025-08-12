@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Olá, eu sou <strong>João Gerhard</strong></h1>
-<h3 align="center">💻 Desenvolvedor Full Stack | 🛡️ Segurança da Informação</h3>
+<h3 align="center">💻 Desenvolvedor Backend | 🛡️ Segurança da Informação</h3>
 
 ---
 
