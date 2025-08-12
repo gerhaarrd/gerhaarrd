@@ -4,11 +4,9 @@
 ---
 
 ## 🚀 Sobre mim
-- 🔭 Atualmente trabalhando em: **[Sistema de Controle de Acesso](link_do_projeto)**
+- 🔭 Atualmente trabalhando em: **[Sistema de Controle de Acesso]**
 - 🌱 Estudando: **FastAPI, WebSockets, e Segurança de Aplicações**
-- 💡 Interesses: Segurança, automações, bots, games e experiências web interativas.
-- ⚡ Fato divertido: Já pensei em recriar o Spotify Wrapped… mas romântico. ❤️
-
+- 💡 Interesses: Segurança, automações, bots, e experiências web interativas.
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -21,15 +19,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,html,css,js,php,mysql,git,linux" />
-</p>
-
----
-
-## 📫 Onde me encontrar
-<p align="center">
-  <a href="https://x.com/gerhaarrd"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://threads.net/@gerhaarrd"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,html,css,js,mysql,git,linux" />
 </p>
 
 ---
