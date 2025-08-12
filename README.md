@@ -26,7 +26,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,html,css,js,mysql,git,linux,sqlite,php" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,html,css,js,mysql,git,linux,sqlite" />
 </p>
 
 ---
