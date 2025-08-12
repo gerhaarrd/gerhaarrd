@@ -21,3 +21,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,html,css,js,mysql,git,linux" />
 </p>
+
+---
+
+## 📫 Onde me encontrar
+<p align="center">
+  <a href="https://instagram.com/gerhaarrd"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://discord.com/users/gerhaarrd"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
