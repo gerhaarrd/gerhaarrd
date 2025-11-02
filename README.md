@@ -1,4 +1,3 @@
-<img width="1359" height="947" alt="image" src="https://github.com/user-attachments/assets/31a8ea1d-505a-42f5-996e-8d5012278961" /><!-- Banner personalizado -->
 <p align="center">
   <img src="https://i.ibb.co/Ths8rcM/dev-banner.gif" alt="banner" width="100%" />
 </p>
