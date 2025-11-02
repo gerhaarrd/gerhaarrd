@@ -1,4 +1,4 @@
-<!-- Banner personalizado -->
+<img width="1359" height="947" alt="image" src="https://github.com/user-attachments/assets/31a8ea1d-505a-42f5-996e-8d5012278961" /><!-- Banner personalizado -->
 <p align="center">
   <img src="https://i.ibb.co/Ths8rcM/dev-banner.gif" alt="banner" width="100%" />
 </p>
@@ -19,6 +19,7 @@
 ## 📊 Estatísticas do GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gerhaarrd&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerhaarrd&layout=compact&theme=radical&hide_border=true" height="165" />
 </p>
 
 ---
