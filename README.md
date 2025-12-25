@@ -11,7 +11,6 @@
 - 🔭 Trabalhando em: **Sistema de Controle de Acesso com Níveis de Permissão**
 - 🌱 Aprendendo: **FastAPI, WebSockets, SQLAlchemy, LangChain**
 - 💡 Interesses: Segurança, automações, bots e experiências web imersivas
-- ⚡ Filosofia: “Código é arte. Segurança é prioridade.”
 
 ---
 
