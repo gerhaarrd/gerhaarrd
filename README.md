@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Sobre mim
-- 🌱 Aprendendo: **FastAPI, WebSockets, SQLAlchemy, LangChain**
+- 🌱 Aprendendo: **FastAPI, WebSockets, SQLAlchemy**
 - 💡 Interesses: Segurança, automações, bots e web
 
 ---
