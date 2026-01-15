@@ -1,31 +1,43 @@
 <p align="center">
-  <img src="https://i.ibb.co/Ths8rcM/dev-banner.gif" alt="banner" width="100%" />
+  <img src="https://i.ibb.co/Ths8rcM/dev-banner.gif" alt="Developer banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Olá, eu sou <strong>João Gerhard</strong></h1>
-<h3 align="center">💻 Desenvolvedor Backend | 🛡️ Segurança da Informação</h3>
+<h1 align="center">Hi, I'm João Gerhard</h1>
+<h3 align="center">Backend Developer • Information Security Enthusiast</h3>
 
 ---
 
-## 🚀 Sobre mim
-- 🌱 Aprendendo: **FastAPI, WebSockets, SQLAlchemy**
-- 💡 Interesses: Segurança, automações, bots e web
+## About Me
+I'm a backend-focused developer with a strong interest in **information security**, APIs and system architecture.  
+I enjoy building robust services, exploring vulnerabilities, and understanding how systems behave under the hood.
+
+- Currently learning: **FastAPI, WebSockets, SQLAlchemy**
+- Interests: **Security, automation, bots, web systems**
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,git,linux,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,sqlite,git,linux" />
 </p>
 
 ---
 
-## 🌐 Onde me encontrar
+## What I Work With
+- RESTful APIs and authentication systems  
+- Access control and user permission models  
+- Backend services with Python  
+- Databases (relational and lightweight setups)  
+- Linux-based development environments  
+
+---
+
+## Connect With Me
 <p align="center">
-  <a href="https://instagram.com/gerhaarrd">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-gerhard-b25a9b370/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/gerhaarrd">
-    <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://instagram.com/gerhaarrd">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
