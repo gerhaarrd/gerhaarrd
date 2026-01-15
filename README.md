@@ -8,12 +8,8 @@
 ---
 
 ## About Me
-I'm a backend-focused developer with a strong interest in **information security**, APIs and system architecture.  
+I'm a backend-focused developer with a strong interest in information security, APIs and system architecture.  
 I enjoy building robust services, exploring vulnerabilities, and understanding how systems behave under the hood.
-
-- Currently learning: **FastAPI, WebSockets, SQLAlchemy**
-- Interests: **Security, automation, bots, web systems**
-
 ---
 
 ## Tech Stack
@@ -25,7 +21,6 @@ I enjoy building robust services, exploring vulnerabilities, and understanding h
 
 ## What I Work With
 - RESTful APIs and authentication systems  
-- Access control and user permission models  
 - Backend services with Python  
 - Databases (relational and lightweight setups)  
 - Linux-based development environments  
