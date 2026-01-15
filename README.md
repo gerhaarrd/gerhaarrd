@@ -29,7 +29,7 @@ I enjoy building robust services, exploring vulnerabilities, and understanding h
 
 ## Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-gerhard-b25a9b370/">
+  <a href="https://www.linkedin.com/in/gerhaarrd">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/gerhaarrd">
