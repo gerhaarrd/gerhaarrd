@@ -24,6 +24,15 @@ I enjoy building robust services, exploring vulnerabilities, and understanding h
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
+### Embedded / Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=micropython,arduino" />
+</p>
+
+- ESP32
+- OLED displays (SSD1306)
+- Low-level device control
+
 ---
 
 ## What I Work With
