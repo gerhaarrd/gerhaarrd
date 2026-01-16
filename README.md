@@ -13,8 +13,15 @@ I enjoy building robust services, exploring vulnerabilities, and understanding h
 ---
 
 ## Tech Stack
+
+### Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,sqlite,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,sqlite" />
+</p>
+
+### Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
