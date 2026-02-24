@@ -1,91 +1,52 @@
-<p align="center">
-  <img src="https://i.ibb.co/Ths8rcM/dev-banner.gif" alt="Developer banner" width="100%" />
-</p>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-<h1 align="center">João Gerhard</h1>
-<h3 align="center">Backend Developer • Security-Oriented Engineer • Systems Enthusiast</h3>
+###
 
-<p align="center">
-  Building secure systems, robust APIs and understanding what happens under the hood.
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="micropython logo" />
+</div>
 
----
+###
 
-## 🧠 About Me
-
-I’m a backend-focused developer with a strong interest in **information security, system architecture and low-level behavior**.
-
-I enjoy:
-- Designing secure authentication systems  
-- Building RESTful APIs with scalability in mind  
-- Studying vulnerabilities and real-world attack surfaces  
-- Exploring how operating systems and hardware interact  
-
-Security is not a feature — it's a foundation.
-
----
-
-## ⚙️ Tech Stack
-
-### 🖥 Languages & Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,sqlite" />
-</p>
-
-- REST APIs  
-- JWT authentication  
-- Role-based access control  
-- Relational database modeling  
-
----
-
-### 🛠 Tools & Environment
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-- Linux-first workflow  
-- Git-based version control  
-- CLI-driven development  
-
----
-
-### 🔌 Embedded & Low-Level
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino" />
-</p>
-
-- ESP32  
-- MicroPython  
-- OLED displays (SSD1306)  
-- Hardware-level debugging  
-- Direct device communication  
-
----
-
-## 🔐 Focus Areas
-
-- Backend architecture  
-- API security  
-- Authentication & authorization systems  
-- Vulnerability analysis  
-- System behavior & performance   
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/gerhaarrd">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://instagram.com/gerhaarrd">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://twitter.com/gerhaarrd">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
-</p>
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="discord logo" />
+  </a>
+</div>
 
----
+###
 
-<p align="center">
-  <i>"Understanding systems deeply is the first step to securing them."</i>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gerhaarrd&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=gerhaarrd&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gerhaarrd/gerhaarrd/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gerhaarrd/gerhaarrd/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gerhaarrd/gerhaarrd/output/pacman-contribution-graph.svg">
+</picture>
